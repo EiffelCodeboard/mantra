@@ -11,36 +11,8 @@ var CONST = require('../config/const.js'),
 // Array that lists all supported languages and their property files
 var languages = [
   {
-    name: CONST.LANGUAGE_NAME.C,
-    propertyFile: 'c.js'
-  },
-  {
-    name: CONST.LANGUAGE_NAME.CPP,
-    propertyFile: 'cpp.js'
-  },
-  {
-    name: CONST.LANGUAGE_NAME.HASKELL,
-    propertyFile: 'haskell.js'
-  },
-  {
-    name: CONST.LANGUAGE_NAME.HASKELL_HSPEC,
-    propertyFile: 'haskell-hspec.js'
-  },
-  {
-    name: CONST.LANGUAGE_NAME.JAVA,
-    propertyFile: 'java.js'
-  },
-  {
-    name: CONST.LANGUAGE_NAME.JAVA_JUNIT,
-    propertyFile: 'java-junit.js'
-  },
-  {
-    name: CONST.LANGUAGE_NAME.PYTHON,
-    propertyFile: 'python.js'
-  },
-  {
-    name: CONST.LANGUAGE_NAME.PYTHON_UNIT_TEST,
-    propertyFile: 'python-unittest.js'
+    name: CONST.LANGUAGE_NAME.EIFFEL,
+    propertyFile: 'Eiffel.js'
   }
 ];
 
