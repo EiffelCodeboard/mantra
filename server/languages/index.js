@@ -12,7 +12,7 @@ var CONST = require('../config/const.js'),
 var languages = [
   {
     name: CONST.LANGUAGE_NAME.EIFFEL,
-    propertyFile: 'Eiffel.js'
+    propertyFile: 'eiffel.js'
   }
 ];
 
